@@ -103,9 +103,9 @@ The KaseiCoin Crowdsale project allows users to:
 ## Screenshots Walkthrough
 
 - **Ganache Initial Account Balances**: The initial state of accounts before any contracts are deployed or transactions are made. ![Ganache Initial Account Balances](../Images/Ganache_Initial_Account_Balances.png)
-- **Deployment of Contracts**: Screenshots of the deployment process, including the creation of KaseiCoin and the crowdsale contract. ![Deployment of Contracts](../Images/Crowdsale_and_Token_Addresses.png)
-- **Token Purchase Transactions**: Demonstrating the process of purchasing KaseiCoin tokens through the crowdsale contract. ![Token Purchase Transactions](../Images/Transaction_Purchase.png)
-- **Supply Verification**: Screenshots showing the verification of token supply after transactions have been completed. ![Supply Verification](../Images/TotalSupply_Verification.png)
+- **Deployment of Contracts**: Screenshots of the deployment process, including the creation of KaseiCoin and the crowdsale contract. ![Deployment of Contracts](../Images/Deployed_KaseiCoinCrowdsaleDeployer_Contract.png)
+- **Token Purchase Transactions**: Demonstrating the process of purchasing KaseiCoin tokens through the crowdsale contract. ![Token Purchase Transactions](../Images/BuyTokens_Transaction_Details.png)![Token Purchase Transaction](../Images/BuyTokens_Transaction_Details_Customer2.png)
+- **Supply Verification**: Screenshots showing the verification of token supply after transactions have been completed. ![Supply Verification](../Images/Checked_Total_Supply.png)![Supply Verification](../Images/KaseiCoin_TotalSupply_Check.png)
 - **MetaMask Balance Update**: Verifying the Ether and KaseiCoin balances within MetaMask after transactions. ![MetaMask Balance Update](../Images/MetaMask_Account_Balance.png)
 
 ## Running the Application
